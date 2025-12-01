@@ -1,0 +1,61 @@
+.sectors-section{
+    background: url('../../public/assets/Rectangle1.png');
+   background-position: left top;     
+    
+  background-repeat: no-repeat,no-repeat;
+  width: 100%;
+  text-align: center;
+    margin: 0 auto;
+     
+}
+.image-container {
+    position: relative; 
+    display: inline-block; 
+    text-align: center;
+    margin: 0 auto;
+}
+
+.image-text {
+    position: absolute; 
+    bottom: 15%;
+    left: 15%;
+    font-size: 36px;
+    font-weight: 700;
+    color: white; 
+   text-align: center;
+    padding: 5px 10px; 
+}
+
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+}
+
+.portfolio-text p{
+    font-size: 16px;
+    font-weight: 400;
+}
+.portfolio-text h3{
+    font-size: 20px;
+    font-weight: 700;
+}
+.orange{
+    color: #E04A00;
+}
+.blue{
+    color: #0252D4;
+}
+.orange2{
+    color: #FF915C;
+}
+
+.first-tab-container{
+    background-image: linear-gradient(to right, #FECCB2, #fff);
+    border-radius: 10px;
+    max-width: 1250px;
+}
+
+.react-tabs__tab:focus {
+    outline: none !important;
+}

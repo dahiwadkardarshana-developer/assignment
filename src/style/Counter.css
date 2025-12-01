@@ -1,0 +1,35 @@
+.counter-section{
+    
+     background: url('../../public/assets/download6.svg'),url('../../public/assets/counterbg.svg'), linear-gradient(to right, #E04A00 , #FF915C);
+    background-position: left top, bottom center;     
+  background-repeat: no-repeat,no-repeat;
+  width: 100%;
+    height: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.conter-img {
+    position: relative; 
+    display: inline-block; 
+    text-align: center;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.counter-text {
+    position: absolute; 
+    bottom: 15%;
+    left: 5%;
+    font-size: 30px;
+    font-weight: 700;
+    color: #ff6115;
+    text-align: center;
+    padding: 5px 10px;
+}
+.counter-img img {
+    max-width: 100%;
+    height: auto;
+}
+

@@ -1,0 +1,12 @@
+*{
+   font-family: "Montserrat", sans-serif;
+  
+
+}
+.react-tabs__tab-list {
+  border-bottom: none !important;
+}
+
+.react-tabs__tab:focus {
+    outline: none !important;
+}

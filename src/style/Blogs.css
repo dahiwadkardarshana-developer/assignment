@@ -1,0 +1,33 @@
+.blog-section{
+    
+     background: url('../../public/assets/download3.svg'),url('../../public/assets/bgblog.png'), linear-gradient(to right, #FFEDE4 , #FFEDE4);
+    background-position: left top, right bottom ;     
+  background-repeat: no-repeat,no-repeat;
+  
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.blog-img {
+    position: relative; 
+    display: inline-block; 
+    text-align: center;
+    margin: 0 auto;
+}
+
+.blog-text {
+    position: absolute; 
+    bottom: 15%;
+    left: 23%;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    padding: 5px 10px;
+}
+.blog-img img {
+    max-width: 100%;
+    height: auto;
+}
+

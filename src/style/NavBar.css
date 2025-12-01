@@ -1,0 +1,33 @@
+.custom-navbar{
+    width: 80%; 
+    margin:60px auto; 
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px 2px rgb(0 0 0 / 24%);
+    
+  
+}
+.nav-item a{
+   font-size: 18px;
+   font-family: "Montserrat", sans-serif;
+   font-weight: 600;
+   justify-content: center;
+}
+
+@media screen and (max-width:480px) {
+    .custom-navbar{
+        margin-left: 0;
+    margin-right: 0;
+
+
+    }
+}
+
+@media screen and (max-width:767px) {
+
+}
+
+@media screen and (max-width:1024px) {
+.nav-item a{
+   font-size: 16px;
+}
+}
