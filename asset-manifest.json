@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.2afce974.css",
+    "main.js": "/assignment/static/js/main.c9dcc907.js",
+    "static/js/453.0cca7acb.chunk.js": "/assignment/static/js/453.0cca7acb.chunk.js",
+    "static/media/counterbg.svg": "/assignment/static/media/counterbg.5e55d58005bc9d43d01b.svg",
+    "static/media/Rectangle2.png": "/assignment/static/media/Rectangle2.36fe5ea6fa929c1518ec.png",
+    "static/media/Rectangle1.png": "/assignment/static/media/Rectangle1.f3eef44be375a59a842a.png",
+    "index.html": "/assignment/index.html",
+    "static/media/download6.svg": "/assignment/static/media/download6.fcf873c42faa1c08a416.svg",
+    "static/media/download3.svg": "/assignment/static/media/download3.40254e58ed454ae8a3cf.svg",
+    "static/media/download1.svg": "/assignment/static/media/download1.c06099d356d773b9c424.svg",
+    "main.2afce974.css.map": "/assignment/static/css/main.2afce974.css.map",
+    "main.c9dcc907.js.map": "/assignment/static/js/main.c9dcc907.js.map",
+    "453.0cca7acb.chunk.js.map": "/assignment/static/js/453.0cca7acb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2afce974.css",
+    "static/js/main.c9dcc907.js"
+  ]
+}
